@@ -3,7 +3,7 @@ An app to keep track of its user's personal expenses
 
 ### Installation and Setup
 
-* Fork the repo and clone it.
+* Download or clone this repo by using the link below:
 ```
 git clone https://github.com/AditiAgarwal17/expense_tracker.git
 ```
@@ -15,6 +15,6 @@ flutter run
 
 ### Preview
 
-![Screenshot](https://github.com/AditiAgarwal17/expense_tracker/blob/main/images/image1.jpeg) 
-![Screenshot](https://github.com/AditiAgarwal17/expense_tracker/blob/main/images/image2.jpeg)
-![Screenshot](https://github.com/AditiAgarwal17/expense_tracker/blob/main/images/image3.jpeg)
+
+| ![](images/image1.jpeg) | ![](images/image2.jpeg) | ![](images/image3.jpeg) |
+|:--------------------------|:--------------------------|:--------------------------|
