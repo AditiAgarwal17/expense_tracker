@@ -1,16 +1,20 @@
-# expense_tracker
+# Expense Tracker App
+An app to keep track of its user's personal expenses
 
-A new Flutter project.
+### Installation and Setup
 
-## Getting Started
+* Fork the repo and clone it.
+```
+git clone https://github.com/AditiAgarwal17/expense_tracker.git
+```
+* In the same directory run the following commands(considering you have flutter installed and an android device connected)
+```
+flutter packages get
+flutter run
+```
 
-This project is a starting point for a Flutter application.
+### Preview
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot](https://github.com/AditiAgarwal17/expense_tracker/blob/main/images/image1.jpeg) 
+![Screenshot](https://github.com/AditiAgarwal17/expense_tracker/blob/main/images/image2.jpeg)
+![Screenshot](https://github.com/AditiAgarwal17/expense_tracker/blob/main/images/image3.jpeg)
